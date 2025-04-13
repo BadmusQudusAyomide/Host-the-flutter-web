@@ -1,6 +1,6 @@
 {
-    "name": "campus_cush_consumer",
-    "short_name": "campus_cush_consumer",
+    "name": "campus_cush_agent",
+    "short_name": "campus_cush_agent",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
